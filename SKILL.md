@@ -100,3 +100,5 @@ python3 scripts/translate_video.py ./input.mp4 --translation-provider ollama --o
 ## Safety and rights
 
 Only process videos you own, are licensed to adapt, or are otherwise permitted to download and transform. Respect the source platform's terms and copyright. Never bypass DRM or technical access controls. `--cookies-from-browser` is opt-in and should only use the user's own authenticated session. Do not publish a dubbed derivative without confirming applicable rights.
+
+The project is for learning, research, and technical exchange. Do not use it for unlawful activities, unauthorized voice cloning, fraud, impersonation, or misleading content. See the disclaimer in `README.md`; users are responsible for their use and distribution of generated content under applicable law.

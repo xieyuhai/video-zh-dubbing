@@ -175,3 +175,9 @@ The first run downloads the requested faster-whisper model. `small` is a practic
 ## Rights and privacy
 
 Download and transform only content you own, have permission to process, or are otherwise legally allowed to use. Respect source platform rules. The skill does not bypass DRM. When using an API translation backend, transcript text is sent to that configured provider. Edge TTS sends text to Microsoft's online speech service via the `edge-tts` wrapper. Review the applicable privacy terms before using confidential material.
+
+## 免责声明
+
+本项目仅用于学习、研究和技术交流。严禁用于任何违法违规活动，包括侵犯著作权、隐私权或声音权益，未经授权克隆他人声音，以及制作欺诈、冒充或误导性内容。
+
+使用者应遵守适用法律法规、来源平台规则及相关模型和依赖的许可要求，并自行承担因使用本项目或传播生成内容产生的相应责任。本声明不免除任何主体依法应承担的责任。
