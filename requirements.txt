@@ -1,0 +1,8 @@
+faster-whisper>=1.1.0
+av<19
+edge-tts>=7.0.0
+yt-dlp>=2025.1.15
+pydub>=0.25.1
+requests>=2.31.0
+deep-translator>=1.11.4
+python-dotenv>=1.0.1
